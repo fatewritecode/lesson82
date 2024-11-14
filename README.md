@@ -3,7 +3,7 @@
 lesson82
 
 
-![Screnshot](https://github.com/fatewritecode/lesson82/blob/main/assets/screen.jpg
+![Screnshot]https://github.com/fatewritecode/lesson82/blob/main/assets/screen.jpg
 
 ## Getting Started
 
